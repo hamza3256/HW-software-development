@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/F27SA1/!svn/ver/1064/trunk/SD2/src/lab1/zuulEnums/v2
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/F27SA1/!svn/ver/1064/trunk/SD2/src/lab1/zuulEnums/v2/README.TXT
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/F27SA1/!svn/ver/1064/trunk/SD2/src/lab1/zuulEnums/v2/Parser.java
+END
+CommandWords.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/F27SA1/!svn/ver/1064/trunk/SD2/src/lab1/zuulEnums/v2/CommandWords.java
+END
+Room.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/F27SA1/!svn/ver/1064/trunk/SD2/src/lab1/zuulEnums/v2/Room.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/F27SA1/!svn/ver/1064/trunk/SD2/src/lab1/zuulEnums/v2/Command.java
+END
+CommandWord.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/F27SA1/!svn/ver/1064/trunk/SD2/src/lab1/zuulEnums/v2/CommandWord.java
+END
+Game.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/F27SA1/!svn/ver/1064/trunk/SD2/src/lab1/zuulEnums/v2/Game.java
+END
